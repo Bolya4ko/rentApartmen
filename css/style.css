@@ -140,7 +140,7 @@ main {
 .header-contact__mail::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/email.svg");
+  background-image: url("images/icon/email.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
@@ -161,7 +161,7 @@ main {
 .header-contact__phone::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/phone.svg");
+  background-image: url("images/icon/phone.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
@@ -366,7 +366,7 @@ main {
 .apartments__item-address::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/location.png");
+  background-image: url("images/icon/location.png");
   background-repeat: no-repeat;
   width: 15px;
   height: 20px;
@@ -552,7 +552,7 @@ main {
 .contact__address::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/location-cont.svg");
+  background-image: url("images/icon/location-cont.svg");
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
@@ -570,7 +570,7 @@ main {
 .contact__mail::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/email2.svg");
+  background-image: url("images/icon/email2.svg");
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
@@ -588,7 +588,7 @@ main {
 .contact__phone::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/phone2.svg");
+  background-image: url("images/icon/phone2.svg");
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
@@ -651,7 +651,7 @@ main {
 .contact__instagram::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/insta.png");
+  background-image: url("images/icon/insta.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 40px;
@@ -677,7 +677,7 @@ main {
 .contact__faccebook::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/vk.png");
+  background-image: url("images/icon/vk.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 40px;
@@ -695,7 +695,7 @@ main {
 .reviews::after {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/99.png");
+  background-image: url("images/icon/99.png");
   background-repeat: no-repeat;
   width: 200px;
   background-size: cover;
@@ -934,7 +934,7 @@ main {
 .footer-contact__mail::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/email.svg");
+  background-image: url("images/icon/email.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
@@ -955,7 +955,7 @@ main {
 .footer-contact__phone::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/phone.svg");
+  background-image: url("images/icon/phone.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
@@ -1173,7 +1173,7 @@ main {
 .feedback__talk::before {
   position: absolute;
   content: '';
-  background-image: url("/images/icon/03.png");
+  background-image: url("images/icon/03.png");
   background-repeat: no-repeat;
   width: 70px;
   height: 70px;
@@ -1374,7 +1374,7 @@ main {
 .catalog__item-location::before {
   content: '';
   position: absolute;
-  background-image: url("/images/icon/location.png");
+  background-image: url("images/icon/location.png");
   background-repeat: no-repeat;
   background-position: cover;
   width: 17px;
@@ -1498,7 +1498,7 @@ main {
 .flat .flat-options__location::before {
   position: absolute;
   content: '';
-  background-image: url("/images/icon/location.png");
+  background-image: url("images/icon/location.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 16px;
